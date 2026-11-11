@@ -1,6 +1,6 @@
 Atividade de Banco de Dados solicitada pelo professor Jaime Handa.
 
-Questôes:
+Questões:
 
 1) Executar os fontes para entender o seu funcionamento.
 
